@@ -169,6 +169,7 @@ ethereum_menu() {
         echo "10. AMD and NVIDIA Claymore - Eth Nanopool and Pascal to Nanopool"
 
         read -p "Enter choice [ 1 - 10 ] " choice
+        readonly choice=1
     fi
 
     case $choice in
@@ -682,7 +683,8 @@ main_menu() {
     echo "14. Feathercoin:           press 14, ftc, or feathercoin"
 
     local choice
-    read -p "Enter choice [ 1 - 14 ] " choice
+    choice=1
+
     parse_input $choice
 }
 
