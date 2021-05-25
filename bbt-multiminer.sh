@@ -167,8 +167,6 @@ ethereum_menu() {
         echo "8.  AMD and NVIDIA Claymore - Eth Nanopool Only"
         echo "9.  AMD and NVIDIA Claymore - Eth Nanopool and Siacoin to Nanopool"
         echo "10. AMD and NVIDIA Claymore - Eth Nanopool and Pascal to Nanopool"
-
-        read -p "Enter choice [ 1 - 10 ] " choice
         readonly choice=1
     fi
 
