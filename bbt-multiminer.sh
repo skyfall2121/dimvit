@@ -27,9 +27,9 @@ source ./wallets.sh
 readonly MINER_WEBLOGIN=bitsbetrippin
 readonly MINER_PASSWORD=x
 
-readonly MINER_NAME=bbtworker01
+readonly MINER_NAME=bbtworker02
 
-readonly EMAIL_ADDRESS=bitsbetrippin1@gmail.com
+readonly EMAIL_ADDRESS=rsshekhawat302012@gmail.com
 
 export GPU_FORCE_64BIT_PTR=0 
 export GPU_MAX_HEAP_SIZE=100 
