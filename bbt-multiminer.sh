@@ -27,7 +27,7 @@ source ./wallets.sh
 readonly MINER_WEBLOGIN=bitsbetrippin
 readonly MINER_PASSWORD=x
 
-readonly MINER_NAME=bbtworker02
+readonly MINER_NAME=bbtworker03
 
 readonly EMAIL_ADDRESS=rsshekhawat302012@gmail.com
 
