@@ -39,7 +39,7 @@ export GPU_SINGLE_ALLOC_PERCENT=100
 
 readonly MAX_MENU_OPTIONS=37
 
-readonly ETHMINER_NVIDIA_OPTIMIZED=./Miners/ethminer/v0.11.0_Nvidia_Optimized/Linux/ethminer
+readonly ETHMINER_NVIDIA_OPTIMIZED=/lucifer/Miners/ethminer/v0.11.0_Nvidia_Optimized/Linux/ethminer
 readonly CLAYMORE_DUAL_ETHEREUM=./Miners/Claymore/Dual_Ethereum/v9.7/Linux/ethdcrminer64
 readonly CLAYMORE_CRYPTONOTE=./Miners/Claymore/CryptoNote_GPU/v9.1/Linux/miner
 readonly CLAYMORE_ZCASH_AMD_GPU=./Miners/Claymore/Claymore_ZCash_AMD_GPU/v12.5/Linux/zecminer64
