@@ -21,7 +21,7 @@
 #
 # Wallets
 #
-source ./lucifer/wallets.sh
+source ./terahz/wallets.sh
 
 # suprnova.cc pool login
 readonly MINER_WEBLOGIN=bitsbetrippin
